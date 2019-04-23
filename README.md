@@ -2,6 +2,7 @@
 
 |    Paper    |  Conference  |  Code |
 |  :---------  | :------:  | :------: |
+| [Deep Constrained Clustering - Algorithms and Advances](https://arxiv.org/pdf/1901.10061.pdf) | arxiv 2019 |  |
 |  [Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering](https://ic.unicamp.br/~adin/downloads/pubs/AriasFigueroa2017a.pdf)  |  NIPS 2017  |  [Pytorch](https://github.com/jariasf/clustering-nips-2017)  |
 |  [GEMSEC: Graph Embedding with Self Clustering](https://arxiv.org/pdf/1802.03997.pdf)  |  Arxiv 2018  |    |
 |  [A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085)  |  2018  |    |
