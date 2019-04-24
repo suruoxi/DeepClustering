@@ -7,7 +7,7 @@
 |  [GEMSEC: Graph Embedding with Self Clustering](https://arxiv.org/pdf/1802.03997.pdf)  |  Arxiv 2018  |    |
 |  [A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085)  |  2018  |    |
 |  [Clustering with Deep Learning: Taxonomy and New Methods](https://arxiv.org/pdf/1801.07648.pdf)  |  Arxiv 2018 |  [Theano](https://github.com/elieJalbout/Clustering-with-Deep-learning)  |
-|  [Deep Embedded Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf) |   ICML 2016  | [Caffe](https://github.com/piiswrong/dec) [TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering) |
+|  [Deep Embedded Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf) |   ICML 2016  | [Caffe](https://github.com/piiswrong/dec) [caffe2](<https://github.com/piiswrong/dec>) [TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering) |
 |      [Imporved Deep Embedding Clustering(IDEC)](https://www.ijcai.org/proceedings/2017/0243.pdf)   |   IJCAI 2017  |  [Keras](https://github.com/XifengGuo/IDEC),[Pytorch](https://github.com/dawnranger/IDEC-pytorch) |
 | [Deep Clustering Network(DCN)](https://arxiv.org/pdf/1610.04794v1.pdf)  | Arxiv 2016 | [Theano](https://github.com/boyangumn/DCN-New) |
 | [Deep Embedding Network for Clustering(DEN)](https://ieeexplore.ieee.org/document/6976982/) | ICPR 2014 | |
@@ -29,6 +29,7 @@
 | [Deep Unsupervised Clustering With Gaussian Mixture Variational AutoEncoders(GMVAE)](https://arxiv.org/pdf/1611.02648.pdf)| ICLR 2017 | [Lua](https://github.com/Nat-D/GMVAE)|
 | [Learning Deep Representations for Graph Clustering](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) |  AAAI 2014 | [python](https://github.com/quinngroup/deep-representations-clustering) |
 | [Towards Unsupervised Classification with Deep Generative Models(HCDVAE)](https://openreview.net/pdf?id=ryb83alCZ) | ICLR 2018 |  |
+| [DeepCluster: A General Clustering Framework based on Deep Learning](<http://ecmlpkdd2017.ijs.si/papers/paperID345.pdf>) | ECML 2017 | [Matlab](<https://github.com/JennyQQL/DeepClusterADMM-Release>) |
 
 ## TIPS
 If you find this repository useful to your research or work, it is really appreciate to star this repository.
