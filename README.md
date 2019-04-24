@@ -4,6 +4,7 @@
 |  :---------  | :------:  | :------: |
 | [Deep Constrained Clustering - Algorithms and Advances](https://arxiv.org/pdf/1901.10061.pdf) | arxiv 2019 |  |
 |  [A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085)  |  IEEE ACCESS 2018  |  |
+| [Semi-Supervised Clustering with Neural Networks](<https://arxiv.org/abs/1806.01547>)   another name [ClusterNet : Semi-Supervised Clustering using Neural Networks](https://www.groundai.com/project/clusternet-semi-supervised-clustering-using-neural-networks/) | Arxiv 2018 |  |
 |  [GEMSEC: Graph Embedding with Self Clustering](https://arxiv.org/pdf/1802.03997.pdf)  |  Arxiv 2018  | [TensorFlow](https://github.com/benedekrozemberczki/GEMSEC) |
 |  [Clustering with Deep Learning: Taxonomy and New Methods](https://arxiv.org/pdf/1801.07648.pdf)  |  Arxiv 2018 |  [Theano](https://github.com/elieJalbout/Clustering-with-Deep-learning)  |
 | [Deep Continuous Clustering(DCC)](https://arxiv.org/pdf/1803.01449.pdf) | Arxiv 2018 | [Pytorch](https://github.com/shahsohil/DCC) |
