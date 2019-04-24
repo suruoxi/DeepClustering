@@ -27,7 +27,7 @@
 |  [Deep Embedded Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf) |   ICML 2016  | [Caffe](https://github.com/piiswrong/dec)  [another caffe](<https://github.com/piiswrong/dec>) [TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering) |
 | [Joint Unsupervised Learning of Deep Representations and Image Clustering(JULE)](https://arxiv.org/pdf/1604.03628.pdf) | CVPR 2016 |   [Torch](https://github.com/jwyang/JULE.torch) |
 | [Deep Embedding Network for Clustering(DEN)](https://ieeexplore.ieee.org/document/6976982/) | ICPR 2014 | |
-| [Auto-encoder Based Data Clustering(ABDC)](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) | CIARP 2013 |  [Pytrorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
+| [Auto-encoder Based Data Clustering(ABDC)](http://nlpr-web.ia.ac.cn/english/irds/People/lwang/M-MCG_EN/Publications/2013/CFS2013CIARP.pdf) | CIARP 2013 |  [Pytorch](https://github.com/KellerJordan/Autoencoder-Clustering) |
 | [Learning Deep Representations for Graph Clustering](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8527/8571) |  AAAI 2014 | [python](https://github.com/quinngroup/deep-representations-clustering) |
 
 ## TIPS
