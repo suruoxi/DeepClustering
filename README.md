@@ -13,7 +13,7 @@
 | [SpectralNet: Spectral Clustering Using Deep Neural Networks](https://openreview.net/pdf?id=HJ_aoCyRZ) | ICLR 2018 | [TensorFlow](https://github.com/KlugerLab/SpectralNet) |
 | [Subspace clustering using a low-rank constrained autoencoder(LRAE)](https://www.sciencedirect.com/science/article/pii/S0020025517309659) | Information Science 2018 | |
 | [Clustering-driven Deep Embedding with Pairwise Constraints(CPAC)](https://arxiv.org/pdf/1803.08457.pdf) | Arxiv 2018 |  [Pytorch](https://github.com/sharonFogel/CPAC) |
-| [Deep Adaptive Image Clustering(DAC)]([http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf)) | ICCV 2017 | [Keras(authors)](https://github.com/vector-1127/DAC) [tensorflow](https://github.com/graykode/DAC) |
+| [Deep Adaptive Image Clustering(DAC)](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf) | ICCV 2017 | [Keras(authors)](https://github.com/vector-1127/DAC) [tensorflow](https://github.com/graykode/DAC) |
 | [DeepCluster: A General Clustering Framework based on Deep Learning](<http://ecmlpkdd2017.ijs.si/papers/paperID345.pdf>) | ECML 2017 | [Matlab](<https://github.com/JennyQQL/DeepClusterADMM-Release>) |
 |  [Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering](https://arxiv.org/pdf/1610.04794.pdf)  |  PMLR 2017  |    |
 | [Deep Unsupervised Clustering With Gaussian Mixture Variational AutoEncoders(GMVAE)](https://arxiv.org/pdf/1611.02648.pdf)| ICLR 2017 | [Lua](https://github.com/Nat-D/GMVAE)|
