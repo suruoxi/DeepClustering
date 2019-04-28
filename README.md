@@ -21,7 +21,7 @@
 | [Deep Adaptive Image Clustering(DAC)](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf) | ICCV 2017 | [Keras(authors)](https://github.com/vector-1127/DAC) [tensorflow](https://github.com/graykode/DAC) |
 | [DeepCluster: A General Clustering Framework based on Deep Learning](<http://ecmlpkdd2017.ijs.si/papers/paperID345.pdf>) | ECML 2017 | [Matlab](<https://github.com/JennyQQL/DeepClusterADMM-Release>) |
 |  [Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering](https://arxiv.org/pdf/1610.04794.pdf)  |  PMLR 2017  |    |
-| [Deep Unsupervised Clustering With Gaussian Mixture Variational AutoEncoders(GMVAE)](https://arxiv.org/pdf/1611.02648.pdf)| ICLR 2017 | [Lua](https://github.com/Nat-D/GMVAE)|
+| [Deep Unsupervised Clustering With Gaussian Mixture Variational AutoEncoders(GMVAE)](https://arxiv.org/pdf/1611.02648.pdf)| ICLR 2017 | [Torch](https://github.com/Nat-D/GMVAE) |
 |  [Is Simple Better?: Revisiting Simple Generative Models for Unsupervised Clustering](https://ic.unicamp.br/~adin/downloads/pubs/AriasFigueroa2017a.pdf)  |  NIPS 2017 Workshop  |  [Pytorch](https://github.com/jariasf/clustering-nips-2017)  |
 |      [Imporved Deep Embedding Clustering(IDEC)](https://www.ijcai.org/proceedings/2017/0243.pdf)   |   IJCAI 2017  |  [Keras](https://github.com/XifengGuo/IDEC),[Pytorch](https://github.com/dawnranger/IDEC-pytorch) |
 | [Deep Clustering via joint convolutional autoencoder embedding and relative entropy minimization(DEPICT)](https://arxiv.org/pdf/1704.06327.pdf) | ICCV 2017 |  [Theano](https://github.com/herandy/DEPICT) |
