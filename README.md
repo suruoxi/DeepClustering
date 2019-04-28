@@ -31,7 +31,7 @@
 | [Graph Clustering with Dynamic Embedding(GRACE)](https://arxiv.org/pdf/1712.08249.pdf) | Arxiv 2017 | |
 | [Deep Unsupervised Clustering Using Mixture of Autoencoders(MIXAE)](https://arxiv.org/pdf/1712.07788.pdf) | Arxiv 2017 | |
 | [Deep Clustering Network(DCN)](https://arxiv.org/pdf/1610.04794v1.pdf) | Arxiv 2016 | [Theano](https://github.com/boyangumn/DCN-New) |
-|  [Deep Embedded Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf) |   ICML 2016  | [Caffe](https://github.com/piiswrong/dec)  [another caffe](<https://github.com/piiswrong/dec>) [TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering) |
+|  [Deep Embedded Clustering(DEC)](http://proceedings.mlr.press/v48/xieb16.pdf) |   ICML 2016  | [Caffe](https://github.com/piiswrong/dec)  [another caffe](<https://github.com/piiswrong/dec>) [TensorFlow](https://github.com/danathughes/DeepEmbeddedClustering) [pytorch](https://github.com/vlukiyanov/pt-dec) [mxnet](https://github.com/apache/incubator-mxnet/blob/master/example/deep-embedded-clustering/dec.py)  [Keras](https://github.com/XifengGuo/DEC-keras) [another Keras](https://github.com/fferroni/DEC-Keras) [Chainer](https://github.com/ymym3412/DeepEmbeddedClustering) |
 | [Joint Unsupervised Learning of Deep Representations and Image Clustering(JULE)](https://arxiv.org/pdf/1604.03628.pdf) | CVPR 2016 |   [Torch](https://github.com/jwyang/JULE.torch) |
 | [Deep Unsupervised Clustering with Gaussian Mixture Variational Autoencoders](https://arxiv.org/abs/1611.02648) | Arxiv 2016 | [Torch](https://github.com/Nat-D/GMVAE) |
 | [Deep Embedding Network for Clustering(DEN)](https://ieeexplore.ieee.org/document/6976982/) | ICPR 2014 | |
