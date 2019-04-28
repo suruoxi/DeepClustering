@@ -26,7 +26,7 @@
 |      [Imporved Deep Embedding Clustering(IDEC)](https://www.ijcai.org/proceedings/2017/0243.pdf)   |   IJCAI 2017  |  [Keras](https://github.com/XifengGuo/IDEC),[Pytorch](https://github.com/dawnranger/IDEC-pytorch) |
 | [Deep Clustering via joint convolutional autoencoder embedding and relative entropy minimization(DEPICT)](https://arxiv.org/pdf/1704.06327.pdf) | ICCV 2017 |  [Theano](https://github.com/herandy/DEPICT) |
 | [Discriminatively Boosted Clustering(DBC)](https://arxiv.org/pdf/1703.07980.pdf) | Arxiv 2017 | |
-| [Variational Deep Embedding(VADE)](https://arxiv.org/pdf/1611.05148.pdf) | IJCAI 2017 |  [Keras](https://github.com/slim1017/VaDE) |
+| [Variational Deep Embedding(VADE)](https://arxiv.org/pdf/1611.05148.pdf) | IJCAI 2017 | [Keras](https://github.com/slim1017/VaDE)  [Another Keras](https://github.com/AifChain/aiClustering) |
 | [Deep Subspace Clustering Networks(DSC-Nets)](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf) | NIPS 2017 |[TensorFlow](https://github.com/panji1990/Deep-subspace-clustering-networks) |
 | [Graph Clustering with Dynamic Embedding(GRACE)](https://arxiv.org/pdf/1712.08249.pdf) | Arxiv 2017 | |
 | [Deep Unsupervised Clustering Using Mixture of Autoencoders(MIXAE)](https://arxiv.org/pdf/1712.07788.pdf) | Arxiv 2017 | |
